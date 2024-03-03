@@ -1,6 +1,6 @@
 # Hello
 
-Parent: [Artificial Intelligence Unit](https://github.com/artificialintelligenceunit)
+Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
 
 <br>
 <br>
