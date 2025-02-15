@@ -10,8 +10,8 @@ Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintel
 <h3>BACKEND</h3>
 Thus far:
 <ul>
-  <li>configurations: data and modelling configurations</li>
-  <li>iac: infrastructure as code scripts</li>
+  <li>configurations: Records data & modelling configurations.</li>
+  <li>iac: Infrastructure as code scripts.</li>
 </ul>
 
 <h3>STATE MACHINES</h3>
