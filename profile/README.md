@@ -5,7 +5,7 @@ Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintel
 <br>
 <br>
 
-<details><summary><b>Jots</b></summary>
+<details><summary><b>Notes</b></summary>
   
 <h3>BACKEND</h3>
 Thus far:
@@ -19,8 +19,7 @@ Include:
 <ul>
   <li><b>references</b>: [on demand]<br>For decoding within-data identification codes, e.g., health board codes, etc.</li>
   <li><b>raw</b>: [weekly]<br>Once a week it retrieves the latest [version of] raw counts of weekly accident & emergency attendance numbers.  It saves an appropriate structure.</li>
-  <li><b>structures</b>: [weekly]<br>The decompostions structures.</li>
-  <li><b>futures</b>: [weekly]</li>
+  <li><b>futures | parts</b>: [weekly]<br>Forecasting</li>
 </ul>
 </details>
 
