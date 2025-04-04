@@ -8,7 +8,6 @@ Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintel
   <img src="stepfunctions_emergency.png" alt="State Machine"/>
 </details>
 
-
 <br>
 <br>
 
