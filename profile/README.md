@@ -3,6 +3,13 @@
 Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
 
 <br>
+
+<details><summary><b>State Machine</b></summary>
+  <img src="stepfunctions_emergency.png" alt="State Machine"/>
+</details>
+
+
+<br>
 <br>
 
 <br>
