@@ -4,7 +4,7 @@
 
 <br>
 
-<details><summary><b>State Machine</b></summary>
+<details><summary><b>Notes</b></summary>
   <img src="stepfunctions_emergency.png" alt="State Machine"/>
 </details>
 
