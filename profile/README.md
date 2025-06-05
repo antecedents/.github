@@ -5,7 +5,7 @@
 <br>
 
 <details><summary><b>Notes</b></summary>
-  <img src="stepfunctions_emergency.png" alt="State Machine"/>
+  <img src="graph.png" width="65%" height="65%" alt="State Machine"/>
 </details>
 
 <br>
