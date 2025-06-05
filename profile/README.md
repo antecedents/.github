@@ -5,7 +5,7 @@
 <br>
 
 <details><summary><b>Notes</b></summary>
-  <img src="graph.png" width="65%" height="65%" alt="State Machine"/>
+  <img src="graph.png" width="73.5%" height="73.5%" alt="State Machine"/>
 </details>
 
 <br>
