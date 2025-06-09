@@ -6,7 +6,7 @@
 
 &nbsp; | description
 :--- | :---
-task | River Level Prediction
+task | Accident & Emergency Attendance Prediction
 algorithm | Bayesian Structural Time Series (STS) + Variational Inference
 input | The accident & emergency attendance time series of the previous weeks.
 output | The training phase forecasts, the testing phase predictions, and future predictions (9 weeks ahead)
