@@ -1,11 +1,13 @@
-**Links**
-
-* [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
+[The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
 
 <br>
 
 <details><summary><b>Notes</b></summary>
+
+  <br><a href="https://theartificialintelligenceunit.github.io/intelligence/html/pre-ae-futures.html">APP</a><br>
+  
   <img src="graph.png" width="73.5%" height="73.5%" alt="State Machine"/>
+  
 </details>
 
 <br>
