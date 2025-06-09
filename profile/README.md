@@ -2,6 +2,19 @@
 
 <br>
 
+
+### Modelling Details
+
+&nbsp; | description
+:--- | :---
+task | River Level Prediction
+algorithm | Bayesian Structural Time Series (STS) + Variational Inference
+input | The accident & emergency attendance time series of the previous weeks.
+output | The training phase forecasts, the testing phase predictions, and future predictions (9 weeks ahead)
+operations schedules | The raw data is updated weekly, and sometimes data numbers are corrected, hence <ul><li><b>Predictions</b>: Weekly, Tuesdays, 9 Weeks Ahead</li><li><b>Model Re-training</b>: Weekly, Tuesdays, Before Predictions</li></ul>
+
+
+
 <details><summary><b>Notes</b></summary>
 
   <br><a href="https://theartificialintelligenceunit.github.io/intelligence/html/pre-ae-futures.html">APP</a><br>
