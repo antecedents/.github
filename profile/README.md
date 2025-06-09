@@ -11,7 +11,18 @@ task | River Level Prediction
 algorithm | Bayesian Structural Time Series (STS) + Variational Inference
 input | The accident & emergency attendance time series of the previous weeks.
 output | The training phase forecasts, the testing phase predictions, and future predictions (9 weeks ahead)
-operations schedules | The raw data is updated weekly, and sometimes data numbers are corrected, hence <ul><li><b>Predictions</b>: Weekly, Tuesdays, 9 Weeks Ahead</li><li><b>Model Re-training</b>: Weekly, Tuesdays, Before Predictions</li></ul>
+operations<br>schedules | The raw data is updated weekly, and sometimes data numbers are corrected, hence <ul><li><b>Predictions</b>: Weekly, Tuesdays, 9 Weeks Ahead</li><li><b>Model Re-training</b>: Weekly, Tuesdays, Before Predictions</li></ul>
+
+
+<br>
+
+### Data Details
+
+&nbsp; | description
+:--- | :---
+name | Weekly Accident & Emergency (A&E) Activity, and Waiting Times
+modality | Time Series
+brief description | Every week, on a Tuesday, <a href="https://www.publichealthscotland.scot/" target="_blank">Public Health Scotland</a> releases an updated CSV file consisting of (a) counts of weekly A&E attendance at approximately 30 hospitals, and (b) waiting time metrics.  The weekly counts span Monday → Sunday. <ul><li><a href="https://www.opendata.nhs.scot/dataset/weekly-accident-and-emergency-activity-and-waiting-times" target="_blank">Detailed data description.</a></li><li><a href="https://www.opendata.nhs.scot/" target="_blank">Scottish Health and Social Care Open Data</a></li></ul>
 
 
 
