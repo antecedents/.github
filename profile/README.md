@@ -1,9 +1,3 @@
-[The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
-
-<br>
-
-### About
-This hub host's the repositories of the [accident & emergency pages](https://theartificialintelligenceunit.github.io/intelligence/html/pre-ae-introduction.html).
 
 <br>
 
