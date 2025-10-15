@@ -11,8 +11,6 @@
 <a href="https://github.com/antecedents/quantiles" target="_blank">quantiles</a> | Calculates quantiles and extrema, and prepares the calculations for graphing.
 <a href="https://github.com/antecedents/variational" target="_blank">variational</a> | For Bayesian state space modelling of time series; <a href="https://github.com/antecedents/viability" target="_blank">viability</a> is its  corresponding evaluation repository.
 &nbsp; | &nbsp;
-<a href="https://github.com/antecedents/iac" target="_blank">iac</a> | Limited infrastructure as code notes; intentionally opaque.
-&nbsp; | &nbsp;
 <a href="https://github.com/antecedents/references" target="_blank">references</a> | For retrieving reference data, e.g., health board data, etc.
 
 <br>
