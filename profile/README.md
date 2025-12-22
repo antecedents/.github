@@ -1,6 +1,6 @@
 Accident & Emergency
 
-<a href="https://theartificialintelligenceunit.github.io/abstracts/site/sections/ae/" target="_blank">README</a>
+<a href="https://theartificialintelligenceunit.github.io/abstracts/site/ae/" target="_blank">README</a>
 
 <br>
 
