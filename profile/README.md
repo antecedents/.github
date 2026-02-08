@@ -1,8 +1,10 @@
 Accident & Emergency
 
-<a href="https://theartificialintelligenceunit.github.io/abstracts/sections/ae/" target="_blank">README</a>
+<a href="https://theartificialintelligenceunit.github.io/abstracts/site/sections/ae/" target="_blank">README</a>
 
 <br>
+
+<details><summary><b>Notes</b></summary>
 
 ### Repositories
 
@@ -42,6 +44,11 @@ name | Weekly Accident & Emergency (A&E) Activity, and Waiting Times
 modality | Time Series
 brief description | Every week, on a Tuesday, <a href="https://www.publichealthscotland.scot/" target="_blank">Public Health Scotland</a> releases an updated CSV file consisting of (a) counts of weekly A&E attendance at approximately 30 hospitals, and (b) waiting time metrics.  The weekly counts span Monday → Sunday. <ul><li><a href="https://www.opendata.nhs.scot/dataset/weekly-accident-and-emergency-activity-and-waiting-times" target="_blank">Detailed data description.</a></li><li><a href="https://www.opendata.nhs.scot/" target="_blank">Scottish Health and Social Care Open Data</a></li></ul>
 raw data access | <a href="https://www.opendata.nhs.scot/dataset/weekly-accident-and-emergency-activity-and-waiting-times/resource/a5f7ca94-c810-41b5-a7c9-25c18d43e5a4" target="_blank">Weekly Accident & Emergency Activity, and Waiting Times</a>
+
+</details>
+
+<br>
+<br>
 
 <br>
 <br>
